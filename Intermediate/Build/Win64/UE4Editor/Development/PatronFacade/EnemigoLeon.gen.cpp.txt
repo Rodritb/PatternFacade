@@ -1,0 +1,7 @@
+F:\DonkeyKong_SIS457\PatronFacade\Intermediate\Build\Win64\UE4Editor\Development\PatronFacade\Definitions.PatronFacade.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\DonkeyKong_SIS457\PatronFacade\Source\PatronFacade/EnemigoLeon.h
+F:\DonkeyKong_SIS457\PatronFacade\Source\PatronFacade\Enemigos.h
+F:\DonkeyKong_SIS457\PatronFacade\Intermediate\Build\Win64\UE4Editor\Inc\PatronFacade\Enemigos.generated.h
+F:\DonkeyKong_SIS457\PatronFacade\Intermediate\Build\Win64\UE4Editor\Inc\PatronFacade\EnemigoLeon.generated.h

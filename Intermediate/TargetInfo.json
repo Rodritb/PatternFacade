@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PatronFacade",
+			"Path": "F:\\DonkeyKong_SIS457\\PatronFacade\\Source\\PatronFacade.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PatronFacadeEditor",
+			"Path": "F:\\DonkeyKong_SIS457\\PatronFacade\\Source\\PatronFacadeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+F:\DonkeyKong_SIS457\PatronFacade\Intermediate\Build\Win64\UE4Editor\Development\PatronFacade\Definitions.PatronFacade.h
+F:\DonkeyKong_SIS457\PatronFacade\Source\PatronFacade\EnemigosLeon.h
+F:\DonkeyKong_SIS457\PatronFacade\Source\PatronFacade\Enemigos.h
+F:\DonkeyKong_SIS457\PatronFacade\Intermediate\Build\Win64\UE4Editor\Inc\PatronFacade\Enemigos.generated.h
+F:\DonkeyKong_SIS457\PatronFacade\Intermediate\Build\Win64\UE4Editor\Inc\PatronFacade\EnemigosLeon.generated.h
